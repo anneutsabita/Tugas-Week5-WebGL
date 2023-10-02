@@ -1,5 +1,5 @@
 # Tugas-Week5-WebGL
-Nama : Anneu Tsabita Putri
+Nama : Anneu Tsabita Putri  
 NRP : 5025211026
 
 ## 2D Square
